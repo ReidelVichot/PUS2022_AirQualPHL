@@ -12,29 +12,20 @@ Abstract: This project was aimed at assessing the importance of urban tree distr
 
 **3. Health factor variables** were obtained from the CDC 500 Cities dataset: https://chronicdata.cdc.gov/500-Cities-Places/500-Cities-Local-Data-for-Better-Health-2019-relea/6vp6-wxuq
 
-> Arthritis: Percentage of population with arthritis
-
-> Binge_Drinking: Percentage of population who binge drinks
-
 > Blood_Pressure: Percentage of population with high blood pressure
 
 > Cancer: Percentage of the population with cancer
 
 > Heart_Disease: Percentage of the population with coronary heart disease
 
-> Pulmonary_Disease: Percentage of the population with chronic pulmonary diease
-
 > Diabetes: Percentage of the population with diabetes
-
-> Sleep: Percentage of the population getting less than 7 hours of sleep
 
 > Stroke: Percentage of the population experiencing strokes
 
 > Obesity: Percentage of the population with obesity
 
-> Smoking: Percentage of the population who smokes cigarettes 
 
-**NOTE: Not all these attributes were used, But only the choosen chronic disease attributes**
+**NOTE: Only the choosen chronic disease attributes**
 
 
 
